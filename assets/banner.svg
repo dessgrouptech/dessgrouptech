@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="DESS Group Tech - Tecnologia que transforma negócios">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080E20"/><stop offset=".56" stop-color="#0B1630"/><stop offset="1" stop-color="#061023"/></linearGradient><linearGradient id="line"><stop stop-color="#169DFF"/><stop offset="1" stop-color="#63E4FF"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="17"/></filter></defs>
+<rect width="1200" height="390" rx="22" fill="url(#bg)"/>
+<circle cx="1055" cy="74" r="170" fill="#0C62DC" opacity=".21" filter="url(#glow)"/><circle cx="1090" cy="324" r="190" fill="#06BCFF" opacity=".08" filter="url(#glow)"/>
+<g fill="none" stroke="#2B4D76" opacity=".30"><path d="M650 0V390 M730 0V390 M810 0V390 M890 0V390 M970 0V390 M1050 0V390 M1130 0V390"/><path d="M600 50H1200 M600 130H1200 M600 210H1200 M600 290H1200 M600 370H1200"/></g>
+<rect x="63" y="61" width="5" height="43" rx="2" fill="#2AAFFF"/><text x="88" y="92" fill="#6FDFFF" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="5">DESS GROUP TECH</text>
+<text x="65" y="177" fill="#F5F8FF" font-family="Arial,sans-serif" font-size="52" font-weight="800">Tecnologia que</text><text x="65" y="237" fill="url(#line)" font-family="Arial,sans-serif" font-size="52" font-weight="800">transforma negócios.</text>
+<text x="67" y="282" fill="#AFBDD4" font-family="Arial,sans-serif" font-size="20">Sites • Aplicativos • Sistemas • Automação</text>
+<rect x="65" y="319" width="294" height="2" fill="url(#line)"/>
+<g transform="translate(835 78)"><rect width="280" height="232" rx="19" fill="#0A1D3B" stroke="#2C79B5" stroke-width="1.5"/><rect x="21" y="23" width="238" height="31" rx="8" fill="#122C4E"/><circle cx="38" cy="39" r="5" fill="#2FAFF5"/><circle cx="56" cy="39" r="5" fill="#45B8D5"/><circle cx="74" cy="39" r="5" fill="#5570A5"/><path d="M78 110l-29 26 29 25 M198 110l29 26-29 25 M165 94l-47 87" fill="none" stroke="url(#line)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><rect x="40" y="197" width="199" height="5" rx="2" fill="#23547C"/></g>
+</svg>
